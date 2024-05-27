@@ -483,3 +483,253 @@ Speed Reading (Kam Knight)
 
 Books and Manuals Read the front and back covers. Review the table of contents to get a feel for the organization, and notice if the book is divided into sections or parts. Read the chapter headings to get a sense of the topics that will be covered.
 ==========
+The Millionaire Fastlane (MJ DeMarco)
+- Your Highlight on page 16 | Location 232-232 | Added on Saturday, May 11, 2024 1:51:34 AM
+
+Normal is not something to aspire to, it's something to get away from. ~Jodie Foster
+==========
+The Millionaire Fastlane (MJ DeMarco)
+- Your Highlight on page 20 | Location 294-295 | Added on Saturday, May 11, 2024 2:00:44 AM
+
+The object of life is not to be on the side of the masses, but to escape finding oneself in the ranks of the insane. ~ Marcus Aurelius
+==========
+Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan)
+- Your Highlight on page 11 | Location 165-167 | Added on Sunday, May 12, 2024 2:14:20 PM
+
+Most people never pick up the phone, most people never ask. And that’s what separates, sometimes, the people that do things from the people that just dream about them. You gotta act. And you gotta be willing to fail.
+==========
+Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan)
+- Your Highlight on page 15 | Location 225-227 | Added on Sunday, May 12, 2024 10:31:52 PM
+
+There are two mistakes one can make along the road to truth . . . not going all the way, and not starting. —Buddha
+==========
+Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan)
+- Your Highlight on page 21 | Location 321-324 | Added on Sunday, May 12, 2024 10:46:06 PM
+
+Don’t base your happiness or your self-worth on being the smartest, the most successful, the richest. Being so focused on the end results sets you up for a major fall because there’s ALWAYS going to be someone who’s smarter, more successful, or richer—and every time you see that you’ve fallen short, it will eat away at your motivation.
+==========
+Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan)
+- Your Highlight on page 36 | Location 542-544 | Added on Monday, May 13, 2024 12:54:25 PM
+
+If you believe your product or service can fulfill a true need, it’s your moral obligation to sell it. —Zig Ziglar
+==========
+Million Dollar Weekend: The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours (Noah Kagan)
+- Your Highlight on page 52 | Location 792-794 | Added on Monday, May 13, 2024 7:02:24 PM
+
+When novice entrepreneurs search for opportunities, they too often look beyond their Zone of Influence. They think the action is happening somewhere else, in some other location or industry. But seasoned entrepreneurs almost always find and create opportunities within the context of who they are, what they know, and especially who they know.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Bookmark on page 121 | Location 1842 | Added on Tuesday, May 21, 2024 2:31:42 AM
+
+
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 13 | Location 197-198 | Added on Tuesday, May 21, 2024 2:34:47 AM
+
+With the introduction of AI algorithms, the focus shifted to statistical analysis and minimizing variance.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 13 | Location 197-199 | Added on Tuesday, May 21, 2024 2:35:08 AM
+
+With the introduction of AI algorithms, the focus shifted to statistical analysis and minimizing variance. Instead of being right on average, they could be right for each specific instance, leading to more accurate predictions that revolutionized many back-office functions, from managing customer service to helping run supply chains.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 14 | Location 211-213 | Added on Tuesday, May 21, 2024 2:37:25 AM
+
+a paper with the catchy title “Attention Is All You Need.” Published by Google researchers in 2017, this paper introduced a significant shift in the world of AI, particularly in how computers understand and process human language. This paper proposed a new architecture, called the Transformer, that could be used to help a computer better process how humans communicate.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 16 | Location 236-237 | Added on Tuesday, May 21, 2024 2:40:14 AM
+
+To teach AI how to understand and generate humanlike writing, it is trained on a massive amount of text from various sources, such as websites, books, and other digital documents.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 18 | Location 266-268 | Added on Tuesday, May 21, 2024 2:42:33 AM
+
+AI companies are running out of good, free sources. As a result, it is also likely that most AI training data contains copyrighted information, like books used without permission, whether by accident or on purpose. The legal implications of this are still unclear.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 18 | Location 271-272 | Added on Tuesday, May 21, 2024 2:43:10 AM
+
+(one estimate suggests that high-quality data, like online books and academic articles, will be exhausted by 2026),
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Note on page 25 | Location 381 | Added on Tuesday, May 21, 2024 2:48:25 AM
+
+Good idea for a kdp book
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 25 | Location 381-382 | Added on Tuesday, May 21, 2024 2:48:25 AM
+
+choose-your-own adventures,
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 26 | Location 398-400 | Added on Tuesday, May 21, 2024 2:50:30 AM
+
+Professor Sam Bowman of New York University wrote of the neural networks underlying LLMs: “There are hundreds of billions of connections between these artificial neurons, some of which are invoked many times during the processing of a single piece of text, such that any attempt at a precise explanation of an LLM’s behavior is doomed to be too complex for any human to understand.”
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 28 | Location 417-419 | Added on Tuesday, May 21, 2024 2:51:17 AM
+
+Demonstrations of the abilities of LLMs can seem more impressive than they actually are because they are so good at producing answers that sound correct, at providing the illusion of understanding.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 28 | Location 425-426 | Added on Tuesday, May 21, 2024 2:52:51 AM
+
+we have an AI that acts very much like a person, but in ways that aren’t quite human. Something that can seem sentient but isn’t (as far as we can tell). We have invented a kind of alien mind. But how do we ensure the alien is friendly? That is the alignment problem.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 32 | Location 489-492 | Added on Tuesday, May 21, 2024 2:59:02 AM
+
+Few AI companies have asked for permission from content creators before using their data for training, and many of them keep their training data secret. Based on the sources we know about, the core of most AI corpuses appears to be from places where permission is not required, such as Wikipedia and government sites, but it is also copied from the open web and likely even from pirated material. It is not clear whether training an AI on this material is legal.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 33 | Location 495-496 | Added on Tuesday, May 21, 2024 2:59:24 AM
+
+Japan has decided to go all in and declare that AI training does not violate copyright.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 34 | Location 511-513 | Added on Tuesday, May 21, 2024 3:05:15 AM
+
+primarily American and generally English-speaking AI firms decided to gather. And those firms tend to be dominated by male computer scientists, who bring their own biases to decisions about what data is important to collect.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 42 | Location 634-636 | Added on Tuesday, May 21, 2024 3:17:47 AM
+
+You should try inviting AI to help you in everything you do, barring legal or ethical barriers. As you experiment, you may find that AI help can be satisfying, or frustrating, or useless, or unnerving. But you aren’t just doing this for help alone; familiarizing yourself with AI’s capabilities allows you to better understand how it can assist you—or threaten you and your job.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 43 | Location 651-653 | Added on Tuesday, May 21, 2024 3:19:46 AM
+
+As artificial intelligence proliferates, users who intimately understand the nuances, limitations, and abilities of AI tools are uniquely positioned to unlock AI’s full innovative potential. These user innovators are often the source of breakthrough ideas for new products and services. And their innovations are often excellent sources for unexpected start-up ideas.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 45 | Location 690-691 | Added on Tuesday, May 21, 2024 3:22:01 AM
+
+AI works best with human help, and you want to be that helpful human. As AI gets more capable and requires less human help—you still want to be that human. So the second principle is to learn to be the human in the loop.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 46 | Location 697-698 | Added on Tuesday, May 21, 2024 3:23:21 AM
+
+It can help to think of the AI as trying to optimize many functions when it answers you, one of the most important of which is “make you happy” by providing an answer you will like.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 46 | Location 697-698 | Added on Tuesday, May 21, 2024 3:23:37 AM
+
+It can help to think of the AI as trying to optimize many functions when it answers you, one of the most important of which is “make you happy” by providing an answer you will like. That goal often is more important than another goal, “be accurate.”
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 46 | Location 697-698 | Added on Tuesday, May 21, 2024 3:23:56 AM
+
+It can help to think of the AI as trying to optimize many functions when it answers you, one of the most important of which is “make you happy” by providing an answer you will like. That goal often is more important than another goal, “be accurate.”
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 50 | Location 752-754 | Added on Tuesday, May 21, 2024 3:28:51 AM
+
+defining who the AI is and what problems it should tackle. Remember that LLMs work by predicting the next word, or part of a word, that would come after your prompt. Then they continue to add language from there, again predicting which word will come next.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 51 | Location 777-778 | Added on Tuesday, May 21, 2024 3:30:07 AM
+
+Research has shown that asking the AI to conform to different personas results in different, and often better, answers.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 53 | Location 800-801 | Added on Tuesday, May 21, 2024 3:32:38 AM
+
+tweaks and improvements to how we use AI will ensure that future software is far more advanced than it is today.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 54 | Location 814-815 | Added on Tuesday, May 21, 2024 12:00:17 PM
+
+the belief that AI, being made of software, should behave like other software. It is a little bit like saying humans, made of biochemical systems, should behave like other biochemical systems.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 55 | Location 831-833 | Added on Tuesday, May 21, 2024 12:02:43 PM
+
+Each system has its own idiosyncratic strengths and weaknesses, just like each human colleague does. Understanding these strengths and weaknesses requires time and experience working with a particular AI.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 73 | Location 1119-1120 | Added on Tuesday, May 21, 2024 12:40:42 PM
+
+The biggest issue limiting AI is also one of its strengths: its notorious ability to make stuff up, to hallucinate.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 76 | Location 1152-1154 | Added on Tuesday, May 21, 2024 1:39:36 PM
+
+Schwartz used ChatGPT to prepare a legal brief for a personal injury lawsuit against an airline. Schwartz used ChatGPT to research court filings; the AI cited six fake cases. He then presented these cases to the court as real precedents, without verifying their authenticity or accuracy.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 97 | Location 1480-1481 | Added on Tuesday, May 21, 2024 1:51:46 PM
+
+Jobs are composed of bundles of tasks. Jobs fit into larger systems. Without considering systems and tasks, we can’t really understand the impact of AI on jobs.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 100 | Location 1534-1535 | Added on Tuesday, May 21, 2024 2:00:01 PM
+
+The future of understanding how AI impacts work involves understanding how human interaction with AI changes, depending on where tasks are placed on this frontier and how the frontier will change. That takes time and experience,
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 101 | Location 1537-1539 | Added on Tuesday, May 21, 2024 2:01:00 PM
+
+we need to be conscious about the tasks we are giving AI, so as to take advantage of its strengths and our weaknesses. We want to be more efficient while doing less boring work, and to remain the human in the loop while also addressing the value of AI. To do this well, we need a framework,
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 114 | Location 1735-1737 | Added on Tuesday, May 21, 2024 6:53:44 PM
+
+The organizational chart, for example, was originally made to run railroads in the 1850s. Developed by early railroad barons, they created a hierarchical system of authority, responsibility, and communication that enabled them to control and monitor the operations of their railroad empire.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 130 | Location 1980-1982 | Added on Saturday, May 25, 2024 2:31:43 AM
+
+rather than distorting our education system around learning to work with AI via prompt engineering, we need to focus on teaching students to be the humans in the loop, bringing their own expertise to bear on problems.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 136 | Location 2073-2074 | Added on Saturday, May 25, 2024 11:39:18 PM
+
+Foundational skills, always tedious to learn, seem to be obsolete. And they might be, if there was a shortcut to being an expert. But the path to expertise requires a grounding in facts.
+==========
+Co-Intelligence: Living and Working with AI (Ethan Mollick)
+- Your Highlight on page 155 | Location 2377-2378 | Added on Monday, May 27, 2024 1:31:56 AM
+
+As alien as AIs are, they’re also deeply human. They are trained on our cultural history, and reinforcement learning from humans aligns them to our goals.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 18 | Location 274-281 | Added on Monday, May 27, 2024 4:14:03 PM
+
+Give Direction Describe the desired style in detail, or reference a relevant persona Specify Format Define what rules to follow, and the required structure of the response Provide Examples Insert a diverse set of test cases where the task was done correctly Evaluate Quality Identify errors and rate responses, testing what drives performance. Divide Labor Split tasks into multiple steps, chained together for complex goals
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 27 | Location 409-411 | Added on Monday, May 27, 2024 4:28:30 PM
+
+Direction is one of the most commonly used and broadest principles. It can take the form of simply using the right descriptive words to clarify your intent, or channeling the personas of relevant business celebrities. While too much direction can narrow the creativity of the model, too little direction is the more common problem.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 30 | Location 458-459 | Added on Monday, May 27, 2024 5:51:23 PM
+
+When there are clashes between style and format, it’s often best to resolve them by dropping whichever element is less important to your final result.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 32 | Location 477-477 | Added on Monday, May 27, 2024 5:59:27 PM
+
+The more examples you provide, and the lesser the diversity between them, the more constrained the response will be to match your examples.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 33 | Location 491-493 | Added on Monday, May 27, 2024 6:00:03 PM
+
+direction works better than providing examples, and it typically isn’t straightforward to collect good examples, so it’s usually prudent to attempt the principle of Give Direction first.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 68 | Location 1029-1031 | Added on Monday, May 27, 2024 6:25:19 PM
+
+Iterating on and testing prompts can lead to radical decreases in the length of the prompt and therefore the cost and latency of your system. If you can find another prompt that performs equally as well (or better) but uses a shorter prompt, you can afford to scale up your operation considerably.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 72 | Location 1097-1099 | Added on Monday, May 27, 2024 6:39:25 PM
+
+engineering is to use task decomposition to break problems down into their component parts, so you can more easily solve each individual problem and then reaggregate the results. Breaking your AI work into multiple calls that are chained together can help you accomplish more complex tasks, as well as provide more visibility into what part of the chain is failing.
+==========
+Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Taylor)
+- Your Highlight on page 73 | Location 1114-1115 | Added on Monday, May 27, 2024 6:43:12 PM
+
+LLMs work by predicting the next token in a sequence and therefore struggle to know what the overall response will be when finished.
+==========
