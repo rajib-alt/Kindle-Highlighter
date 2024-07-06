@@ -733,3 +733,353 @@ Prompt Engineering for Generative AI (for True Epub) (James Phoenix;Michael Tayl
 
 LLMs work by predicting the next token in a sequence and therefore struggle to know what the overall response will be when finished.
 ==========
+Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (Vickie Li)
+- Your Highlight on page 38 | Location 570-571 | Added on Thursday, May 30, 2024 2:11:05 PM
+
+HackerOne and Bugcrowd, both launched in 2012. After that, a few more platforms, such as Synack, Cobalt, and Intigriti, came to the market.
+==========
+Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (Vickie Li)
+- Your Highlight on page 45 | Location 677-677 | Added on Thursday, May 30, 2024 2:27:22 PM
+
+triage refers to the confirmation of vulnerability.
+==========
+Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities (Vickie Li)
+- Your Highlight on page 57 | Location 871-873 | Added on Friday, May 31, 2024 1:20:09 AM
+
+Study the Common Vulnerability Scoring System (CVSS) at https://www.first.org/cvss/ for a general idea of how critical each type of vulnerability is.
+==========
+Black Hat Go: Go Programming for Hackers and Pentesters (Tom Steele;Chris Patten;Dan Kottmann)
+- Your Bookmark on page 37 | Location 559 | Added on Saturday, June 1, 2024 7:32:24 PM
+
+
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 10 | Location 148-149 | Added on Monday, June 3, 2024 5:30:33 PM
+
+I can’t tell you anything you don’t already know. But I’d like to clarify a few things.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 16 | Location 246-254 | Added on Monday, June 3, 2024 5:45:15 PM
+
+Useful: Does it do something people need done? Learnable: Can people figure out how to use it? Memorable: Do they have to relearn it each time they use it? Effective: Does it get the job done? Efficient: Does it do it with a reasonable amount of time and effort? Desirable: Do people want it? and recently even Delightful: Is using it enjoyable, or even fun?
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 18 | Location 270-271 | Added on Monday, June 3, 2024 5:47:37 PM
+
+I should be able to “get it”—what it is and how to use it—without expending any effort thinking about it.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 19 | Location 291-292 | Added on Monday, June 3, 2024 5:54:42 PM
+
+There’s almost always a plausible rationale—and a good, if misguided, intention—behind every usability flaw.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 23 | Location 346-346 | Added on Monday, June 3, 2024 6:43:54 PM
+
+Why are things always in the last place you look for them? Because you stop looking when you find them!
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 25 | Location 378-380 | Added on Monday, June 3, 2024 6:49:43 PM
+
+we tend to focus on words and phrases that seem to match (a) the task at hand or (b) our current or ongoing personal interests. And of course, (c) the trigger words that are hardwired into our nervous systems, like “Free,” “Sale,” and “Sex,” and our own name.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 26 | Location 399-399 | Added on Monday, June 3, 2024 7:03:15 PM
+
+“Optimizing is hard, and it takes a long time. Satisficing is more efficient.”
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 27 | Location 401-402 | Added on Monday, June 3, 2024 7:04:06 PM
+
+the penalty for guessing wrong on a Web site is usually only a click or two of the Back button, making satisficing an effective strategy. (Back is the most-used button in Web browsers.)
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 31 | Location 461-468 | Added on Monday, June 3, 2024 7:32:49 PM
+
+make sure they see and understand as much of what they need to know—and of what you want them to know—as possible: Take advantage of conventions Create effective visual hierarchies Break pages up into clearly defined areas Make it obvious what’s clickable Eliminate distractions Format content to support scanning
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 35 | Location 523-524 | Added on Monday, June 3, 2024 7:53:16 PM
+
+CLARITY TRUMPS CONSISTENCY
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 35 | Location 523-525 | Added on Monday, June 3, 2024 7:53:25 PM
+
+CLARITY TRUMPS CONSISTENCY If you can make something significantly clearer by making it slightly inconsistent, choose in favor of clarity.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 42 | Location 634-635 | Added on Monday, June 3, 2024 11:09:08 PM
+
+Ginny Redish’s book Letting Go of the Words.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 42 | Location 639-639 | Added on Monday, June 3, 2024 11:09:55 PM
+
+It doesn’t matter how many times I have to click, as long as each click is a mindless, unambiguous choice.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 45 | Location 681-681 | Added on Monday, June 3, 2024 11:16:50 PM
+
+Forms that Work: Designing Web Forms for Usability.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 46 | Location 699-700 | Added on Monday, June 3, 2024 11:19:02 PM
+
+Get rid of half the words on each page, then get rid of half of what’s left.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 77 | Location 1170-1170 | Added on Wednesday, June 5, 2024 6:58:48 PM
+
+If people are lost when they start out, they usually just keep getting...loster.
+==========
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Steve Krug)
+- Your Highlight on page 89 | Location 1358-1359 | Added on Thursday, June 6, 2024 7:18:10 PM
+
+ALL WEB USERS ARE UNIQUE AND ALL WEB USE IS BASICALLY IDIOSYNCRATIC
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 9 | Location 123-124 | Added on Friday, June 7, 2024 7:13:02 PM
+
+Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long- and short-term interests.
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 11 | Location 168-168 | Added on Friday, June 7, 2024 7:46:27 PM
+
+Dunning-Kruger effect
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 14 | Location 206-206 | Added on Saturday, June 8, 2024 10:43:33 AM
+
+“Getting Things Done”
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 20 | Location 302-304 | Added on Sunday, June 9, 2024 12:47:25 PM
+
+Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance, but rather the result of smart working environments that avoid resistance in the first place (cf. Neal et al. 2012; Painter et al. 2002; Hearn et al. 1998).
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 26 | Location 399-400 | Added on Sunday, June 9, 2024 2:04:09 PM
+
+If you want to learn something for the long run, you have to write it down. If you want to really understand something, you have to translate it into your own words.
+==========
+How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers (Sönke Ahrens)
+- Your Highlight on page 28 | Location 424-424 | Added on Sunday, June 9, 2024 4:43:29 PM
+
+Use full sentences, disclose your sources, make references and try to be as precise, clear and brief as possible.
+==========
+Designing Interfaces, 3rd Edition (Aynne Valencia-Brooks;Charles Brewer;Jenifer Tidwell)
+- Your Highlight on page 25 | Location 374-376 | Added on Thursday, June 20, 2024 12:01:57 AM
+
+To find out more about designing for voice, we recommend Designing Voice User Interfaces: Principles of Conversational Experiences by Cathy Pearl (O’Reilly, 2017).
+==========
+Designing Interfaces, 3rd Edition (Aynne Valencia-Brooks;Charles Brewer;Jenifer Tidwell)
+- Your Highlight on page 25 | Location 379-381 | Added on Thursday, June 20, 2024 12:02:39 AM
+
+For more on this, see Designing Social Interfaces: Principles, Patterns, and Practices for Improving the User Experience by Christian Crumlish and Erin Malone (O’Reilly, 2015).
+==========
+Designing Interfaces, 3rd Edition (Aynne Valencia-Brooks;Charles Brewer;Jenifer Tidwell)
+- Your Highlight on page 25 | Location 384-385 | Added on Thursday, June 20, 2024 12:03:25 AM
+
+You can read more on this in Designing Multi-Device Experiences: An Ecosystem Approach to User Experiences across Devices by Michal Levin (O’Reilly, 2014).
+==========
+Designing Interfaces, 3rd Edition (Aynne Valencia-Brooks;Charles Brewer;Jenifer Tidwell)
+- Your Highlight on page 26 | Location 388-390 | Added on Thursday, June 20, 2024 12:04:16 AM
+
+learn more, read Creating Augmented and Virtual Realities: Theory and Practice for Next-Generation Spatial Computing by Erin Pangilinan et al. (O’Reilly, 2019).
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 8 | Location 143-143 | Added on Wednesday, June 26, 2024 1:07:50 PM
+
+Variable rewards are one of the most powerful tools companies implement to hook users;
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 21 | Location 286-288 | Added on Wednesday, June 26, 2024 2:13:06 PM
+
+“The most important factor to increasing growth is . . . Viral Cycle Time.”7 Viral Cycle Time is the amount of time it takes a user to invite another user, and it can have a massive impact.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 23 | Location 302-303 | Added on Wednesday, June 26, 2024 2:16:45 PM
+
+Gourville writes that products that require a high degree of behavior change are doomed to fail even if the benefits of using the new product are clear and substantial.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 27 | Location 355-357 | Added on Wednesday, June 26, 2024 9:15:22 PM
+
+Sometimes a behavior does not occur as frequently as flossing or Googling, but it still becomes a habit. For an infrequent action to become a habit, the user must perceive a high degree of utility, either from gaining pleasure or avoiding pain.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 32 | Location 404-406 | Added on Thursday, June 27, 2024 12:38:42 PM
+
+Painkillers solve an obvious need, relieving a specific pain, and often have quantifiable markets.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 48 | Location 560-561 | Added on Thursday, June 27, 2024 1:37:12 PM
+
+Internal triggers manifest automatically in your mind. Connecting internal triggers with a product is the brass ring of habit-forming technology.
+==========
+Hooked (Eyal, Nir)
+- Your Note on page 48 | Location 561 | Added on Thursday, June 27, 2024 1:38:41 PM
+
+Internl trigger are automatic and does not require any externl Que.
+==========
+Hooked (Eyal, Nir)
+- Your Note on page 48 | Location 561 | Added on Thursday, June 27, 2024 1:39:20 PM
+
+Internl trigger are automatic and does not require any externl cue.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 52 | Location 606-607 | Added on Thursday, June 27, 2024 8:55:00 PM
+
+The ultimate goal of a habit-forming product is to solve the user’s pain by creating an association so that the user identifies the company’s product or service as the source of relief.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 52 | Location 612-614 | Added on Thursday, June 27, 2024 8:57:34 PM
+
+“We often think the Internet enables you to do new things . . . But people just want to do the same things they’ve always done.”
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 53 | Location 623-625 | Added on Thursday, June 27, 2024 9:19:56 PM
+
+If] you want to build a product that is relevant to folks, you need to put yourself in their shoes and you need to write a story from their side. So, we spend a lot of time writing what’s called user narratives.”
+==========
+রবীন্দ্রনাথ এখানে কখনও খেতে আসেননি (Mohammad Nazim Uddin)
+- Your Highlight on page 185 | Location 2827-2828 | Added on Friday, June 28, 2024 6:36:35 PM
+
+হতে পারে সে খুবই নগন্য মানুষ, তাই বলে কাশির সিরাপ খেয়ে নেশা করবে!
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 30 | Location 384-384 | Added on Sunday, June 30, 2024 5:06:22 PM
+
+Some behaviors never become habits because they do not occur frequently enough.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 32 | Location 404-406 | Added on Sunday, June 30, 2024 5:10:58 PM
+
+Painkillers solve an obvious need, relieving a specific pain, and often have quantifiable markets.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 32 | Location 407-409 | Added on Sunday, June 30, 2024 5:11:28 PM
+
+Vitamins, by contrast, do not necessarily solve an obvious pain point. Instead they appeal to users’ emotional rather than functional needs.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 52 | Location 612-614 | Added on Tuesday, July 2, 2024 4:57:04 PM
+
+“We often think the Internet enables you to do new things . . . But people just want to do the same things they’ve always done.”
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 53 | Location 617-619 | Added on Tuesday, July 2, 2024 4:58:01 PM
+
+“When the research focuses on what people actually do (watch cat videos) rather than what they wish they did (produce cinema-quality home movies) it actually expands possibilities.”
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 57 | Location 673-675 | Added on Tuesday, July 2, 2024 5:42:18 PM
+
+Triggers cue the user to take action and are the first step in the Hooked Model.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 61 | Location 705-706 | Added on Tuesday, July 2, 2024 5:44:29 PM
+
+To initiate action, doing must be easier than thinking. Remember, a habit is a behavior done with little or no conscious thought.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 62 | Location 714-716 | Added on Tuesday, July 2, 2024 5:46:27 PM
+
+The Fogg Behavior Model is represented in the formula B = MAT, which represents that a given behavior will occur when motivation, ability, and a trigger are present at the same time and in sufficient degrees.1
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 63 | Location 725-726 | Added on Tuesday, July 2, 2024 6:31:09 PM
+
+While a trigger cues an action, motivation defines the level of desire to take that action.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 96 | Location 1045-1046 | Added on Wednesday, July 3, 2024 12:14:55 PM
+
+The study revealed that what draws us to act is not the sensation we receive from the reward itself, but the need to alleviate the craving for that reward.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 98 | Location 1059-1060 | Added on Wednesday, July 3, 2024 12:27:11 PM
+
+we are like children in that once we figure out what will happen next, we become less excited by the experience.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 100 | Location 1085-1086 | Added on Wednesday, July 3, 2024 12:42:45 PM
+
+Our brains are adapted to seek rewards that make us feel accepted, attractive, important, and included.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 131 | Location 1418-1419 | Added on Wednesday, July 3, 2024 5:11:54 PM
+
+simply giving users what they want is not enough to create a habit-forming product.
+==========
+OceanofPDF.comThinking_with_Type_3rd_Edition_-_Ellen_Lupton  
+- Your Highlight on page 13-13 | Added on Wednesday, July 3, 2024 5:41:03 PM
+
+1471 | Nicolas Jenson Jenson learned to print in Mainz, the German birthplace of typography
+==========
+OceanofPDF.comThinking_with_Type_3rd_Edition_-_Ellen_Lupton  
+- Your Highlight on page 19-19 | Added on Wednesday, July 3, 2024 6:16:50 PM
+
+Fat Face is the name given to the infated, hyper-bold type style introduced in the early nineteenth century.
+==========
+OceanofPDF.comThinking_with_Type_3rd_Edition_-_Ellen_Lupton  
+- Your Highlight on page 19-19 | Added on Wednesday, July 3, 2024 6:33:26 PM
+
+Condensed typefaces violated the classical proportions of lettering. Nineteenthcentury advertisements often combined fonts of varying styles and widths
+==========
+OceanofPDF.comThinking_with_Type_3rd_Edition_-_Ellen_Lupton  
+- Your Highlight on page 19-19 | Added on Wednesday, July 3, 2024 6:49:10 PM
+
+Slab serifs transformed the serif from a delicate ornament into a load-bearing structure. The slab style was also called Egyptian, referring to the enormous scale and bottom-heavy architecture of the pyramids
+==========
+প্লেটোর সংলাপ (করিম, সরদার ফজলুল)
+- Your Highlight on Location 600-607 | Added on Thursday, July 4, 2024 1:20:34 AM
+
+যদিও ইনি এবং আমি উভয়ের কেউই মহৎ কিংবা সুন্দর কিছুই জানিনে, তথাপি দুজনার মধ্যে আমার অবস্থানটি এর চেয়ে কিঞ্চিৎ উৎকৃষ্ট। কেননা, ইনি কিছুই জানেন না, কিন্তু মনে করেন, ইনি জানেন; অপরদিকে আমি যেমন কিছু জানিনে, তেমনি মনেও করিনে যে, আমি কিছু জানি। শেষের বিষয়টিতে, অর্থাৎ আমি যে নিজেকে জ্ঞানী বলে মনে করিনে–এ বিষয়টিতে মনে হচ্ছে, আমি প্রাজ্ঞবরের চেয়ে কিঞ্চিৎ উৎকৃষ্ট।
+==========
+প্লেটোর সংলাপ (করিম, সরদার ফজলুল)
+- Your Highlight on Location 621-624 | Added on Thursday, July 4, 2024 1:21:49 AM
+
+আমি দেখলাম যারা জ্ঞানী বলে খ্যাত তারাই সবচেয়ে অজ্ঞ বই আর কিছু নন। অপরদিকে, যাদের জ্ঞানী বলে খ্যাতি কম, তারাই বরঞ্চ অনেক উত্তম এবং সত্যকারভাবে জ্ঞানী।
+==========
+প্লেটোর সংলাপ (করিম, সরদার ফজলুল)
+- Your Highlight on Location 673-675 | Added on Thursday, July 4, 2024 1:37:37 AM
+
+তোমরা স্মরণ রেখো, শ্রেষ্ঠ জ্ঞানী একমাত্র সেই ব্যক্তি যে সক্রেটিসের ন্যায় জানে যে, তার জ্ঞানের মূল্য প্রকৃতপক্ষে কিছুই নয়।’
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 136 | Location 1468-1468 | Added on Thursday, July 4, 2024 1:23:18 PM
+
+The more users invest time and effort into a product or service, the more they value it.
+==========
+Hooked (Eyal, Nir)
+- Your Highlight on page 140 | Location 1512-1513 | Added on Thursday, July 4, 2024 9:00:22 PM
+
+The more effort we put into something, the more likely we are to value it; we are more likely to be consistent with our past behaviors; and finally, we change our preferences to avoid cognitive dissonance.
+==========
+Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions Between People and Technology (Pereyra, Irene)
+- Your Highlight on Location 170-173 | Added on Saturday, July 6, 2024 5:50:52 PM
+
+“When the point of contact between the product and the people becomes a point of friction, then the designer has failed. On the other hand, if people are made safer, more comfortable, more eager to purchase, more efficient—or just plain happier—by contact with the product, then the designer has succeeded.”
+==========
+Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions Between People and Technology (Pereyra, Irene)
+- Your Highlight on Location 237-238 | Added on Saturday, July 6, 2024 6:25:17 PM
+
+(Interestingly, the Zulu, the term for architect, umqambi wesino, means “magician of space,” “maker of a situation,” or “maker of a sensation”).
+==========
+Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions Between People and Technology (Pereyra, Irene)
+- Your Highlight on Location 243-244 | Added on Saturday, July 6, 2024 6:26:42 PM
+
+The reason UX and UI need to collaborate closely on the entire experience from beginning to end is to ensure all efforts are always moving in the same direction.
+==========
+Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions Between People and Technology (Pereyra, Irene)
+- Your Highlight on Location 253-254 | Added on Saturday, July 6, 2024 6:28:07 PM
+
+Any product any designer creates is first and foremost measured by the effectiveness of its usability. Or in other words, how well a user can use that particular design helps a user achieve their intended goal.
+==========
+Universal Principles of UX: 100 Timeless Strategies to Create Positive Interactions Between People and Technology (Pereyra, Irene)
+- Your Highlight on Location 259-262 | Added on Saturday, July 6, 2024 6:42:49 PM
+
+Remember the 2000 presidential election in the United States where Bush won by a small 537-vote Floridian margin? Turns out the misaligned rows in the now infamous “butterfly” ballot caused many people to accidentally vote for the wrong candidate. Bad usability in both UX and UI caused Al Gore to lose the presidency.
+==========
